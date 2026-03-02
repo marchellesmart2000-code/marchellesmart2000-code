@@ -1,6 +1,6 @@
 <!--
-  GITHUB PROFILE README: Create a repo with the same name as your GitHub username
-  and this README will show on your profile. Replace YOUR_USERNAME everywhere below.
+  GITHUB PROFILE README: Repo name is your GitHub username (here: `marchellesmart2000-code`)
+  and this README will show on your profile. Replace links/usernames below if needed.
 -->
 
 <div align="center">
@@ -18,18 +18,18 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://yourusername.dev"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/marchellesmart2000-code"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/marchellesmart2000"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://marchellesmart2000-code.github.io"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br/>
 
 <!-- GitHub stats cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marchellesmart2000-code&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marchellesmart2000-code&theme=radical&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" height="165"/>
 
 <br/>
 <br/>
@@ -50,7 +50,7 @@
 
 ### 🏆 **GitHub profile trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=marchellesmart2000-code&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies" />
 
 ---
 
@@ -75,8 +75,8 @@
 ### 📫 **Reach out**
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/></a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-6366f1?style=for-the-badge" alt="Repos"/></a>
+  <a href="https://github.com/marchellesmart2000-code"><img src="https://img.shields.io/badge/-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/></a>
+  <a href="https://github.com/marchellesmart2000-code?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-6366f1?style=for-the-badge" alt="Repos"/></a>
 </p>
 
 <br/>
