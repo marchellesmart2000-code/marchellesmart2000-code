@@ -48,17 +48,15 @@ Website for a custom-print and branded-gifts studio. Includes a `/admin` CMS, Wh
 
 `React 19` `Vite` `Tailwind` `Framer Motion` `Convex`
 
-[Live site](https://ink-and-identity.vercel.app/) · [Code](https://github.com/marchellesmart2000-code/ink-and-identity)
+[Live site](https://www.inkandidentity.co.za)
 
 </td>
 <td width="50%" valign="top">
 
-#### Lowveld Bass Trail
-Fishing-league app with live leaderboards, points tracking and an admin dashboard for organisers.
+#### Tom's Market Nelspruit
+Website for a local Nelspruit market, showcasing its vendors.
 
-`React` `TypeScript` `Vite` `Convex`
-
-[Live app](https://lowveld-bass-trail.vercel.app) · [Code](https://github.com/marchellesmart2000-code/LowveldBassTrail)
+[Live site](https://www.farmfreshfair.co.za/)
 
 </td>
 </tr>
@@ -82,7 +80,7 @@ Club website with an events calendar and an admin panel for committee members.
 </tr>
 </table>
 
-<sub>More client work: <a href="https://www.farmfreshfair.co.za/">Tom's Market Nelspruit</a> · <a href="https://legogotemedicine.vercel.app/">Legogote Medicine</a> · <a href="https://www.mzansisparesnelspruit.co.za/">Mzansi Spares Nelspruit</a></sub>
+<sub>More client work: <a href="https://legogotemedicine.vercel.app/">Legogote Medicine</a> · <a href="https://www.mzansisparesnelspruit.co.za/">Mzansi Spares Nelspruit</a></sub>
 
 ---
 
