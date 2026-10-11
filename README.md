@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f766e&height=170&section=header&text=Marchelle%20Smart&fontSize=46&fontColor=e6fffa&fontAlignY=38&desc=AI-assisted%20full-stack%20developer%20%C2%B7%20White%20River%2C%20South%20Africa&descSize=16&descAlignY=60" alt="Marchelle Smart — AI-assisted full-stack developer" width="100%" />
 
 <a href="https://lowveldweb.co.za"><img src="https://img.shields.io/badge/Website-lowveldweb.co.za-0f766e?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/marchelle-smart-b22bb1159"><img src="https://img.shields.io/badge/LinkedIn-Marchelle%20Smart-0f766e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/marchelle-smart"><img src="https://img.shields.io/badge/LinkedIn-Marchelle%20Smart-0f766e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:marchellesmart2000@gmail.com"><img src="https://img.shields.io/badge/Email-marchellesmart2000%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Open%20to-remote%20full--time%20roles-14b8a6?style=flat-square" alt="Open to remote full-time roles" />
 
@@ -120,6 +120,6 @@ Club website with an events calendar and an admin panel for committee members.
 
 **Let's talk.** Hiring for a remote role? I'd like to hear from you.
 <br />
-<a href="mailto:marchellesmart2000@gmail.com">marchellesmart2000@gmail.com</a> · <a href="https://www.linkedin.com/in/marchelle-smart-b22bb1159">LinkedIn</a> · <a href="https://lowveldweb.co.za">lowveldweb.co.za</a>
+<a href="mailto:marchellesmart2000@gmail.com">marchellesmart2000@gmail.com</a> · <a href="https://www.linkedin.com/in/marchelle-smart">LinkedIn</a> · <a href="https://lowveldweb.co.za">lowveldweb.co.za</a>
 
 </div>
