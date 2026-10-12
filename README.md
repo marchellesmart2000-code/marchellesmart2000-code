@@ -11,7 +11,7 @@
 
 ### Hi, I'm Marchelle 👋
 
-I build websites, web apps and databases for real businesses, start to finish.
+I build websites, web apps, databases and custom business software (invoicing, PayFast payments) for real businesses, start to finish.
 I'm self-taught and I work AI-first: I plan the product, then build it with Cursor AI and ship it to production.
 
 Since July 2025 I've run **[Lowveld Web](https://lowveldweb.co.za)**, a small studio in Mbombela. Clients rate it 5.0 from 6 Google reviews.
@@ -78,6 +78,14 @@ Club website with an events calendar and an admin panel for committee members.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Client Invoicing System
+Private client project. A full invoicing system with automatic calculations and PDF invoice generation, backed by a database.
+
+</td>
+</tr>
 </table>
 
 <sub>More client work: <a href="https://legogotemedicine.vercel.app/">Legogote Medicine</a> · <a href="https://www.mzansisparesnelspruit.co.za/">Mzansi Spares Nelspruit</a></sub>
@@ -103,6 +111,8 @@ Club website with an events calendar and an admin panel for committee members.
 <img src="https://img.shields.io/badge/Vercel-0f766e?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/GitHub-0f766e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Cursor_AI-0f766e?style=flat-square&logo=cursor&logoColor=white" alt="Cursor AI" />
+<img src="https://img.shields.io/badge/PayFast-0f766e?style=flat-square&logoColor=white" alt="PayFast" />
+<img src="https://img.shields.io/badge/PDF_generation-0f766e?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF generation" />
 </p>
 
 ---
